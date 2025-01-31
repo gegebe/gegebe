@@ -13,13 +13,32 @@ UX/UI designer and trainer with over 15 years of experience in interaction desig
 
 ---
 
-## 🔧 Skills & Tools  
+## 🔧 Habilitats i Eines / Habilidades y Herramientas / Skills & Tools  
 
-- **Disseny UX/UI** | Diseño UX/UI | UX/UI Design  
-- **Arquitectura de la informació** | Arquitectura de la información | Information Architecture  
-- **Prototipat** | Prototipado | Prototyping  
-- **Usabilitat i accessibilitat** | Usabilidad y accesibilidad | Usability & Accessibility  
-- **Eines** | Herramientas | Tools: Figma, Sketch, Adobe XD, Axure RP, Optimal Workshop  
+### Disseny UX/UI / Diseño UX/UI / UX/UI Design  
+- **Figma**  
+- **Sketch**  
+- **Adobe XD**  
+- **Adobe CC** (Illustrator, Photoshop, etc.)
+
+### Prototipat / Prototipado / Prototyping  
+- **Axure RP**  
+- **Balsamiq**  
+
+### Arquitectura de la informació / Arquitectura de la información / Information Architecture  
+- **Optimal Workshop**  
+- **Miro**
+- **XMind**  
+
+### Usabilitat i accessibilitat / Usabilidad y accesibilidad / Usability & Accessibility  
+- **Figma**  
+- **Adobe XD**  
+- **Axure RP**  
+
+### Eines de Desenvolupament / Herramientas de Desarrollo / IDE Tools 
+- **Visual Studio Code** 
+
+
 
 ---
 
