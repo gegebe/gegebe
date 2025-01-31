@@ -1,6 +1,6 @@
-# 🌍 Dissenyador UX/UI | UX/UI Designer  
+# 🌍 UX/UI Designer  
 
-## 🏆 Sobre mi | Sobre mí | About Me  
+## 🏆 About Me  
 
 ### 📌 Català  
 Dissenyador UX/UI i formador amb més de 15 anys d’experiència en disseny d’interacció, experiència d’usuari, usabilitat i accessibilitat web. Especialitzat en prototipat, arquitectura de la informació i sistemes de disseny. He treballat en diversos sectors combinant la meva experiència professional amb una trajectòria docent en màsters universitaris, certificats de professionalitat i formació per a professionals.  
