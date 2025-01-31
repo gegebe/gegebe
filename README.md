@@ -35,7 +35,7 @@ UX/UI designer and trainer with over 15 years of experience in interaction desig
 - **Adobe XD**  
 - **Axure RP**  
 
-### IDE Tools / Herramientas de Desarrollo / Eines de Desenvolupament  
+### Eines de Desenvolupament / Herramientas de Desarrollo / IDE Tools  
 - **Visual Studio Code**  
 
 ---
